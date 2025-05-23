@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel do Nascimento Fonseca
+# 👋 Hi, I'm Gabriel Fonseca
 
 I'm a software developer focused on building backend systems with **Java**, **Spring Boot**, and **cloud technologies** like **AWS**.
 
