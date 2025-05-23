@@ -2,8 +2,6 @@
 
 I'm a software developer focused on building backend systems with **Java**, **Spring Boot**, and **cloud technologies** like **AWS**.
 
-I'm currently based in Brazil and open to **remote** or **relocation opportunities** — especially in Germany and other European countries.
-
 ## ⚙️ Tech Stack
 
 - Java | Spring Boot | Hibernate
