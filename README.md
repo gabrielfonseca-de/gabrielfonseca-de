@@ -26,7 +26,7 @@ I'm a software developer focused on building backend systems with **Java**, **Sp
 
 - Email: gabrielfonseca.developer@gmail.com  
 - LinkedIn: [linkedin.com/in/gabrielfonseca-de](https://www.linkedin.com/in/gabrielfonseca-de)  
-- Location: Brasília, Brazil (open to relocation)
+- Location: Brasília, Brazil // Frankfurt, Germany
 
 ---
 
